@@ -22,18 +22,20 @@
 </div>
 
 <div>
-  <img align="left" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="300" style="height: 300px; width: auto; border-radius: 8px;">
+  <img align="left" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="220" style="height: 220px; width: auto; border-radius: 8px;">
 
-  <br>
-  <p>Passionate about building efficient Websites, minimalist UI/UX design, and continuous learning.</p>
-  <br>
-  <ul>
-    <li> <b>Name:</b>      Azka</li>
-    <li> <b>Education:</b> Software Development, Literature & Philosophy</li>
-    <li> <b>Focus:</b>     Laravel, CSS, JavaScript, & MySQL Databases</li>
-    <li> <b>Location:</b>  Indonesia</li>
-    <li> <b>Habit:</b>     Skeptical anywhre</li>
-  </ul>
+##  About Me
+
+```powershell
+PS C:\Users\Azka> who am i
+
+Name        : Azka Chirza Saifani Chasan
+School      : SMKN 1 Bantul
+Editor      : VS Code • Antigravity • PhpStorm
+Learning    : Laravel • HTML • CSS • JS • Tailwind • MVC Concept • Database/Backend
+Dream       : Make more dream
+```
+
 </div>
 <br clear="both"/>
 
