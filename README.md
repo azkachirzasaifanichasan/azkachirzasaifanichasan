@@ -27,11 +27,11 @@
 </div>
 
 <div>
-  <img align="left" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="200" style="height: 200px; width: auto; border-radius: 8px; margin-top: 20px; ">
-
-##  About Me
+  <img align="right" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="200" style="height: 200px; width: auto; border-radius: 8px; margin-top: 20px; ">
 
 ```powershell
+
+
 PS C:\Users\Azka> who am i
 
 Name        : Azka Chirza Saifani Chasan
@@ -39,6 +39,8 @@ School      : SMKN 1 Bantul
 Editor      : VS Code • Antigravity • PhpStorm
 Learning    : Laravel • HTML • CSS • JS • Tailwind • MVC Concept • Database/Backend
 Dream       : Make more dream
+
+
 ```
 
 </div>
