@@ -7,10 +7,15 @@
 </div>
     
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo">
+  <a href="https://www.linkedin.com/in/azka-csc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo">
+  </a>
+  <a href="https://instagram.com/latestsins" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo">
+  </a>
+  <a href="https://discord.com/users/1274353699279470723" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo">
+  </a>
 </div>
 
 <div
@@ -18,11 +23,11 @@
 </div>
     
 <div align="center" style="margin-bottom: 1px; margin-top: 1px; ">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Web+Developer+Focussing+on+Laravel.;More+likes+in+Tailwindcss+Styling.;C%3A%5Claragon%5Cwww%5Ctest%3E+php+artisan+make%3Aliterature+philosophy." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Web+Developer+Focussing+on+Laravel.;More+likes+in+Tailwindcss+Styling.;C%3A%5Claragon%5Cwww%5Ctest%3E+php+artisan+make%3Aliterature+philosophy" />
 </div>
 
 <div>
-  <img align="left" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="220" style="height: 220px; width: auto; border-radius: 8px;">
+  <img align="left" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="200" style="height: 200px; width: auto; border-radius: 8px; margin-top: 20px; ">
 
 ##  About Me
 
