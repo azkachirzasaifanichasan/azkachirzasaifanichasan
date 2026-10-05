@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; max-width: 100%; overflow: hidden; border-radius: 8px; margin-bottom: 0px;">
-  <img src="./resource/A surge of awareness (1).png" alt="A Surge of Awareness" style="width: 100%; height: auto; display: block;">
+  <img src="./resource/bannerspace.png" alt="A Surge of Awareness" style="width: 100%; height: auto; display: block;">
 </div>
 
 <div
