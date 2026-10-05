@@ -18,7 +18,7 @@
 </div>
     
 <div align="center" style="margin-bottom: 1px; margin-top: 1px; ">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+Developer;C%23+Developer;Learning+Android+Development;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Web+Developer+Focussing+on+Laravel.;More+likes+in+Tailwindcss+Styling.;C%3A%5Claragon%5Cwww%5Ctest%3E+php+artisan+make%3Aliterature+philosophy." />
 </div>
 
 <div>
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-## My favorite tools and technologies
+## Want to learn in
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -133,15 +133,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-## Stats & Top Language.
-
-> Languages that I have worked with and am interested in
-<p align="left">
-  <img src="https://github-stats-api-xi.vercel.app/api/stats?username=azka-style-css" width="49%" />
-  <img src="https://github-stats-api-xi.vercel.app/api/top-langs?username=azka-style-css&v=2" width="49%" />
-</p>
-
-##test commit
