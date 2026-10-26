@@ -50,9 +50,9 @@ Dream       : Make more dream
 <br>
 <br>
 
-## Want to learn in
+# Want to learn in
 
-> Tools and technologies that i want to worked with and am interested in
+> Tools and technologies that i want to use and am interested in
 
 <table width="100%" align="center">
   <tr>
