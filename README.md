@@ -27,6 +27,7 @@
 </div>
 
 <div>
+  <br>
   <img align="right" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="200" style="height: 200px; width: auto; border-radius: 8px; margin-top: 20px; ">
 
 ```powershell
@@ -51,7 +52,7 @@ Dream       : Make more dream
 
 ## Want to learn in
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that i want to worked with and am interested in
 
 <table width="100%" align="center">
   <tr>
