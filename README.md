@@ -21,6 +21,8 @@
 <div
   <h1> <h1>
 </div>
+
+<br>
     
 <div align="center" style="margin-bottom: 1px; margin-top: 1px; ">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Web+Developer+Focussing+on+Laravel.;More+likes+in+Tailwindcss+Styling.;C%3A%5Claragon%5Cwww%5Ctest%3E+php+artisan+make%3Aliterature+philosophy" />
@@ -46,8 +48,6 @@ Dream       : Make more dream
 
 </div>
 <br clear="both"/>
-
-<br>
 <br>
 
 # Want to learn in
